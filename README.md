@@ -17,12 +17,26 @@ entre los que mas tiempo le e invertido es el siguiente
 ## tengnologias que manejo 
 
 
-   <img src="https://cdn-icons-png.flaticon.com/512/81/81714.png" width="20px"
+<img src="HTML.PNG" width="100px"
 margin-top="15px"
 margin-right="10px"
 margin-left= "10px"
 margin-left= "10px">
-   Mis Proyectos:
+<img src="JAVA.PNG" width="100px"
+margin-top="15px"
+margin-right="10px"
+margin-left= "10px"
+margin-left= "10px">
+<img src="PHP.PNG" width="100px"
+margin-top="15px"
+margin-right="10px"
+margin-left= "10px"
+margin-left= "10px">
+<img src="PYTHON.PNG" width="100px"
+margin-top="15px"
+margin-right="10px"
+margin-left= "10px"
+margin-left= "10px">
 -
 ## datos cortos de mi
 soy un estudiante promedio estoy especializando en el manejo de servidores aun en camino 
