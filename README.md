@@ -1,6 +1,6 @@
 # Bienvenidos 
 ### hola me llamo Marco A. 👋
-<img src="https://github.com/marcoflug/marcoflug/blob/main/bienvenido.jpg?raw=true" width="800px" padding= "20px">
+<img src="bienvenido.jpg?raw=true" width="800px" padding= "20px">
 
 
 - 🔭 Actualmente estoy estudiando en la universidad 
