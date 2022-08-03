@@ -40,6 +40,15 @@ margin-left= "10px">
 -
 ## datos cortos de mi
 soy un estudiante promedio estoy especializando en el manejo de servidores aun en camino 
+# estadisticas
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=marcoflug)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="marco.jpeg?raw=true" width="350px"
+float= "left"
+margin-top="15px"
+margin-right="10px"
+margin-left= "10px"
+margin-left= "10px">
 ## experiencia laboral
 - estuve realizando prácticas en una pequeña empresa de exportación de frutas al extranjero 
 - tengo un cierto grado de conocimiento en tratado de fruta en su empaque y estado de conservación
