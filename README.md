@@ -1,6 +1,8 @@
 # Bienvenidos 
 ### hola me llamo Marco A. 👋
- 
+<img src="https://github.com/marcoflug/marcoflug/blob/main/bienvenido.jpg?raw=true" width="800px" padding= "20px">
+
+bienvenido.jpg
 - 🔭 Actualmente estoy estudiando en la universidad 
 - 🌱 Actualmente estoy aprendiendo esto del manejo de git 
 - 🤔 Estoy buscando ayuda para comprender este mundo de git 
