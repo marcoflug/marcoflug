@@ -22,16 +22,19 @@ margin-top="15px"
 margin-right="10px"
 margin-left= "10px"
 margin-left= "10px">
+
 <img src="JAVA.PNG" width="100px"
 margin-top="15px"
 margin-right="10px"
 margin-left= "10px"
 margin-left= "10px">
+
 <img src="PHP.PNG" width="100px"
 margin-top="15px"
 margin-right="10px"
 margin-left= "10px"
 margin-left= "10px">
+
 <img src="PYTHON.PNG" width="100px"
 margin-top="15px"
 margin-right="10px"
