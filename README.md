@@ -1,6 +1,6 @@
 # Bienvenidos 
-### hola me llamo Marco A. 👋
-<img src="bienvenido.jpg?raw=true" width="800px" padding= "20px">
+### hola me llamo Araujo Marco. 👋
+<img src="saludo_comp.jpg?raw=true" width="800px" padding= "20px">
 
 
 - 🔭 Actualmente estoy estudiando en la universidad 
